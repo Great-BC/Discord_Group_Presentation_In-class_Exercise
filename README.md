@@ -15,7 +15,7 @@ This project demonstrates how to set up a WebSocket server using Node.js and cre
 
 ```bash
 git clone https://github.com/Great-BC/Discord_Group_Presentation_In-class_Exercise.git
-cd Discord_Group_Presentation_In-class_Exercise
+
 ```
 ### Step2: Install Node.js Dependencies
 ```bash
