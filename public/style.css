@@ -29,7 +29,7 @@ body {
 .message-input {
     width: 50%;
     height: 10vh;
-    border-radius: 10px;
+    border-radius: 10px 0px 0px 10px;
     border: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 500;
@@ -38,8 +38,11 @@ body {
 }
 .send-button {
     width: 10%;
-    height: 10vh;
+    height: 10.4vh;
     background-color: #244bf9;
     color: #F9F9F9;
     border: none;
+    border-radius: 0px 10px 10px 0px;
+
+    
 }
