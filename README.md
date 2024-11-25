@@ -39,7 +39,7 @@ The chat interface will automatically connect to the WebSocket server.
 |-------------------------|----------------------------------------------------------------------|
 | Missing dependencies     | Run `npm install` to install all required dependencies.             |
 | Port conflicts           | Change the port in `server.js` if another process is using it.      |
-| Connection issues        | Verify the WebSocket URL in the frontend (`ws://localhost:3001`).    |
+| Connection issues        | Verify the WebSocket URL in the frontend (`ws://localhost:3002`).    |
 
 ---
 
