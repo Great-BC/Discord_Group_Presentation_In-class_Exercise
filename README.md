@@ -44,7 +44,7 @@ The chat interface will automatically connect to the WebSocket server.
 ---
 
 ## Customization
-Modify style.css to update the chat interface design 
+Modify style.css to update the chat interface design.
 Extend server.js to include more features, such as:
 * Implementing user authentication.
 * Storing and displaying message history.
